@@ -149,8 +149,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 • /delallg - <code>Tᴏ ᴅᴇʟᴇᴛᴇ ᴀʟʟ Gғɪʟᴛᴇʀs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>
 • /deletefiles - <code>Tᴏ ᴅᴇʟᴇᴛᴇ CᴀᴍRɪᴘ ᴀɴᴅ PʀᴇDVD Fɪʟᴇs ғʀᴏᴍ ᴛʜᴇ ʙᴏᴛ's ᴅᴀᴛᴀʙᴀsᴇ.</code>"""
 
-    SEC_STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
+    SEC_STATUS_TXT = """<b>★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
 ★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
 ★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code>
 ★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{} MB</code></b>"""
