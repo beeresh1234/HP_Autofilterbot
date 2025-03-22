@@ -245,7 +245,7 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>ᴊᴏɪɴ ꜰᴏʀ ᴍᴏʀᴇ:- @KALPATARU_MOVIES</b>""" 
+<b>×͜×  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏʀᴇ:- @Filmy_Fusion </b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
