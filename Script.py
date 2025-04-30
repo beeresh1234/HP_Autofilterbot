@@ -243,9 +243,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
+    CAPTION = """<b>📂 MOVIE NAME: {file_name}
 
-<b>×͜×  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏʀᴇ:- @Filmy_Fusion </b>""" 
+<b>×͜×  ᴊᴏɪɴ ꜰᴏʀ ᴍᴏʀᴇ:- @KALPATARU_MOVIES</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
